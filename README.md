@@ -1,4 +1,4 @@
-# cum123
+# cam123
 # INSTALL
  
 $ pkg update && pkg upgrade
